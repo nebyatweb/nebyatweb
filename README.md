@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nebyatweb&show_icons=true&theme=gotham" alt="Nebyat Tibebu" />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebyatweb&layout=compact)](https://github.com/nebyatweb/github-readme-stats)
+
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebyatweb&layout=compact)](https://github.com/nebyatweb/github-readme-stats)
