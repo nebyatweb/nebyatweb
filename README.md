@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center>
-<img src="https://github-readme-stats.vercel.app/api?username=nebyatweb&show_icons=true&theme=gotham" alt="Nebyat Tibebu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nebyatweb&show_icons=true&theme=gotham" alt="Nebyat Tibebu" /></p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebyatweb&layout=compact)](https://github.com/nebyatweb/github-readme-stats)
                                                                                                                                             </div>
