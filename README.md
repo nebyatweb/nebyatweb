@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on eCommerce project<br><br>🌱 I’m currently learning React, Kubernetes, Azure Cloud Services<br><br>👨‍💻 All of my projects are available at https://github.com/nebyatweb?tab=repositories<br><br>💬 Ask me about Java and Spring
+🌱 I’m currently learning React, Kubernetes, Azure Cloud Services<br><br>👨‍💻 All of my projects are available at https://github.com/nebyatweb?tab=repositories<br><br>💬 Ask me about Java and Spring
 
 
 ## 🌐 Socials:
